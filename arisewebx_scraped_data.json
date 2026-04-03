@@ -1,0 +1,762 @@
+{
+  "https://www.arisewebx.com": {
+    "scraped_at": "2026-04-03T11:54:03.628253",
+    "url": "https://arisewebx.vercel.app",
+    "status": 200,
+    "business_info": {
+      "site_title": "AriseWebX — Premium Web Design & Development",
+      "description": "AriseWebX builds premium websites and web apps for ambitious businesses. Fast delivery, full ownership, no lock-in. Kickoff in 48 hours.",
+      "name": "AriseWebX",
+      "price_range": "$$"
+    },
+    "social_media_links": {
+      "instagram": "https://instagram.com/arisewebx",
+      "linkedin": "https://linkedin.com/company/arisewebx",
+      "twitter": "https://twitter.com/arisewebx"
+    },
+    "contact_info": {},
+    "services": [],
+    "pages": {},
+    "portfolio": [],
+    "json_ld_data": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "AriseWebX",
+        "url": "https://www.arisewebx.com",
+        "logo": "https://www.arisewebx.com/logolight.png",
+        "description": "AriseWebX is a premium web design and development agency. We build custom websites, e-commerce stores, and web apps for ambitious businesses.",
+        "email": "arisewebx@gmail.com",
+        "serviceType": [
+          "Web Design",
+          "Web Development",
+          "E-Commerce Development",
+          "Custom App Development"
+        ],
+        "areaServed": "Worldwide",
+        "priceRange": "$$"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "AriseWebX",
+        "url": "https://www.arisewebx.com"
+      }
+    ],
+    "all_links": [
+      "https://links.arisewebx.com",
+      "https://www.hilazhanger.shop",
+      "https://arisewebx.vercel.app/projects",
+      "https://arisewebx.vercel.app/",
+      "https://curvyobsession.arisewebx.com",
+      "https://instagram.com/arisewebx",
+      "https://twitter.com/arisewebx",
+      "https://arisewebx.vercel.app/services/web-development",
+      "https://arisewebx.vercel.app/services/ecommerce",
+      "https://arisewebx.vercel.app/our-process",
+      "mailto:arisewebx@gmail.com",
+      "https://arisewebx.vercel.app/services/custom-apps",
+      "https://arisewebx.vercel.app/features",
+      "https://arisewebx.vercel.app/contact",
+      "https://arisewebx.vercel.app/about-us",
+      "https://linkedin.com/company/arisewebx"
+    ],
+    "images": [
+      {
+        "url": "https://arisewebx.vercel.app/_next/image?url=%2Fawxlightlogo.webp&w=384&q=75",
+        "alt": "AriseWebX"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/_next/image?url=%2Fawxdarklogo.webp&w=384&q=75",
+        "alt": "AriseWebX"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/nextdotjs.svg",
+        "alt": "Next.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/react.svg",
+        "alt": "React"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/typescript.svg",
+        "alt": "TypeScript"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/tailwindcss.svg",
+        "alt": "Tailwind CSS"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/nodedotjs.svg",
+        "alt": "Node.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/express.svg",
+        "alt": "Express.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/vercel.svg",
+        "alt": "Vercel"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/supabase.svg",
+        "alt": "Supabase"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/graphql.svg",
+        "alt": "GraphQL"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/figma.svg",
+        "alt": "Figma"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/python.svg",
+        "alt": "Python"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/nextdotjs.svg",
+        "alt": "Next.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/react.svg",
+        "alt": "React"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/typescript.svg",
+        "alt": "TypeScript"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/tailwindcss.svg",
+        "alt": "Tailwind CSS"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/nodedotjs.svg",
+        "alt": "Node.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/express.svg",
+        "alt": "Express.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/vercel.svg",
+        "alt": "Vercel"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/supabase.svg",
+        "alt": "Supabase"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/graphql.svg",
+        "alt": "GraphQL"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/figma.svg",
+        "alt": "Figma"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/python.svg",
+        "alt": "Python"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/postgresql.svg",
+        "alt": "PostgreSQL"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/mongodb.svg",
+        "alt": "MongoDB"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/redis.svg",
+        "alt": "Redis"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/docker.svg",
+        "alt": "Docker"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/aws-color.svg",
+        "alt": "AWS"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/stripe.svg",
+        "alt": "Stripe"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/razorpay.svg",
+        "alt": "Razorpay"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/prisma.svg",
+        "alt": "Prisma"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/n8n.svg",
+        "alt": "n8n"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/zapier.svg",
+        "alt": "Zapier"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/make.svg",
+        "alt": "Make"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/sanity.svg",
+        "alt": "Sanity CMS"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/cloudflare.svg",
+        "alt": "Cloudflare"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/githubactions.svg",
+        "alt": "GitHub Actions"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/flask.svg",
+        "alt": "Flask"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/django.svg",
+        "alt": "Django"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/fastapi.svg",
+        "alt": "FastAPI"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/postgresql.svg",
+        "alt": "PostgreSQL"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/mongodb.svg",
+        "alt": "MongoDB"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/redis.svg",
+        "alt": "Redis"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/docker.svg",
+        "alt": "Docker"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/aws-color.svg",
+        "alt": "AWS"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/stripe.svg",
+        "alt": "Stripe"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/razorpay.svg",
+        "alt": "Razorpay"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/prisma.svg",
+        "alt": "Prisma"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/n8n.svg",
+        "alt": "n8n"
+      }
+    ],
+    "emails": [
+      "your@example.com",
+      "arisewebx@gmail.com"
+    ],
+    "phones": [
+      "55000937024",
+      "1941940012060",
+      "58758466387584",
+      "1100178163",
+      "21821800029109",
+      "1010011173335",
+      "55479897121",
+      "218542147109410939",
+      "22000195157",
+      "12881288001222",
+      "55000024937",
+      "220011112111",
+      "1621085050",
+      "161518751720241722",
+      "220012182197919790018633071951950016619791979001307867",
+      "1100178163",
+      "1453621686",
+      "1100039863987",
+      "2235223500142",
+      "1100112020",
+      "1081620505",
+      "55479897121",
+      "785187572024722",
+      "2727875611",
+      "440111263844001161137",
+      "953920193414993410",
+      "4993553910193739911799",
+      "22220012395",
+      "496496000635635",
+      "2200121721284128400072812200145211",
+      "2200083497",
+      "22001221692",
+      "7184721309291",
+      "2200121145128412840002817",
+      "145145000020145145000020",
+      "22000222200022",
+      "12612121614",
+      "55000623622"
+    ],
+    "addresses": [],
+    "hidden_data": {
+      "hidden_elements": [
+        {
+          "tag": "div",
+          "text": "",
+          "id": "",
+          "class": ""
+        }
+      ],
+      "data_attributes": [],
+      "comments": []
+    },
+    "javascript_data": {},
+    "meta_tags": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "AriseWebX builds premium websites and web apps for ambitious businesses. Fast delivery, full ownership, no lock-in. Kickoff in 48 hours.",
+      "keywords": "web design agency,web development company,custom website design,ecommerce website development,custom app development,hire web developer,Next.js development agency,premium web design,startup web design,small business website,AriseWebX",
+      "google-site-verification": "VuGIKaQt_S-BYAa1d4dD2DkOuKiE8xezR9MJAw8XXEA",
+      "og:title": "AriseWebX — Premium Web Design & Development Agency",
+      "og:description": "We build premium websites, e-commerce stores, and custom web apps for ambitious businesses. Work directly with the developers — no middlemen, no bloat.",
+      "og:url": "https://www.arisewebx.com",
+      "og:site_name": "AriseWebX",
+      "og:locale": "en_US",
+      "og:image": "https://www.arisewebx.com/logolight.png",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "AriseWebX — Web Design & Development",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "AriseWebX — Premium Web Design & Development Agency",
+      "twitter:description": "Premium websites, e-commerce stores, and custom web apps. Work directly with the builders.",
+      "twitter:image": "https://www.arisewebx.com/logolight.png"
+    },
+    "headings": {
+      "h1": [
+        "We Build WebsitesThatConvert."
+      ],
+      "h2": [
+        "Built different,on purpose",
+        "Services thatmove the needle",
+        "From first message togoing live",
+        "Our Work",
+        "Built remotely,delivered perfectly",
+        "Ready toget started?",
+        "Everything you need to know",
+        "Ready to build somethingexceptional?",
+        "ARISEWEBX"
+      ],
+      "h3": [
+        "AriseWebX",
+        "Pixel-perfect sites thatconvert visitors",
+        "We keep your site running perfectly",
+        "Stores thatactually sell",
+        "Full-stack appsbuilt to scale",
+        "Rank higher.Load faster.",
+        "Rebuild on a modern stack.Done properly.",
+        "AriseLinkX",
+        "Hilazhanger",
+        "Curvy Obsession",
+        "Accrual",
+        "Tell Us About Your Project",
+        "Services",
+        "Company",
+        "Get in Touch"
+      ]
+    },
+    "text_content": {
+      "full_text": "AriseWebX — Premium Web Design & DevelopmentHomeFeaturesProjectsContactBook a CallWhere Vision Becomes RealityWe Build WebsitesThat Convert.Premium web design & development for ambitious businesses. Fast, clean, and performance-obsessed from first brief to final launch.Start a ProjectSee our workWhy AriseWebXBuilt different, on purposeAt AriseWebX, you collaborate directly with the developers building your product, from the first message to launch. No hand-offs, no middlemen, no surprises.5+Projects shipped2–3 wksAvg. delivery time< 2 hrsResponse time2 includedRevision roundsAriseWebXGet a Free QuoteReply within 2 hours5+ shippedLive projects48h kickoffQuick project startRemote-FirstServing clients worldwideWhat you get✓Free consultation call✓Custom proposal within 2 hours✓No commitment required✓Full code ownership on deliveryModern stackBuilt with industry-leading technologySee our processNext.jsReactTypeScriptTailwind CSSNode.jsExpress.jsVercelSupabaseGraphQLFigmaPythonNext.jsReactTypeScriptTailwind CSSNode.jsExpress.jsVercelSupabaseGraphQLFigmaPythonPostgreSQLMongoDBRedisDockerAWSStripeRazorpayPrisman8nZapierMakeSanity CMSCloudflareGitHub ActionsFlaskDjangoFastAPIPostgreSQLMongoDBRedisDockerAWSStripeRazorpayPrisman8nZapierMakeSanity CMSCloudflareGitHub ActionsFlaskDjangoFastAPIWhat we buildServices that move the needleEnd-to-end digital products, from first brief to live at scale.Custom WebsitesPixel-perfect sites thatconvert visitorsBespoke design, mobile-first, blazing-fast.Perf Score98/100Load Time0.8sConversion+34%Live trackingClients23+Web DesignE-commerceWeb Appdashboard.appLive ●Mobile-firstBlazing fastCustom designSEO readyMaintenance & SupportWe keep your site running perfectlyUpdates, fixes, and improvements so you never have to worry about your site.Bug fixes & patchesIncludedContent updatesIncludedPerformance checksMonthlySecurity updatesOngoingE-commerceStores thatactually sellOptimised checkout flows that drive revenue.Gold Ring$249Pearl Set$399Cart0$0.00Stripe paymentsFast checkoutProduct catalogueOrder trackingWeb ApplicationsFull-stack appsbuilt to scaleComplex logic, auth, dashboards. We handle the whole stack.Auth & loginDashboardsAPI integrationsFull-stackPerformance & SEORank higher.Load faster.Speed and SEO baked in, not bolted on.Traffic / weekLiveMonTueWedThuFriCore Web VitalsSchema markupPage speedMeta tagsWebsite MigrationRebuild on a modern stack. Done properly.Got an old PHP, WordPress, or Wix site? We rebuild it from scratch using React or Next.js. Faster, cleaner, and built to last.PHP → Next.jsWordPress → ReactWix → CustomHTML → Next.jsFull rebuildClean codebaseNot sure what you need?We'll scope the right solution in a free 30-min call.See our workBook a free callHow We WorkFrom first message to going liveA clear, collaborative process that keeps you in control at every step.Project Delivery WorkflowStartClient InquiryNew project request receivedVia contact form or referralStepDiscovery CallUnderstand goals & requirements30–60 min video or callStepPlanning & StructureLayout, stack & scope definedPlanned before first line of codeStepDevelopmentBuild & integrate featuresNext.js · Tailwind · TypeScriptLiveGo LiveDeploy, test & hand overDomain · SEO · AnalyticsView all steps5 Steps4 ConnectionsTransparent · Collaborative · On-timeSelected WorkOur WorkReal products. Real results. Built with precision and shipped with pride.0101SaaSFull-StackAriseLinkXProduction SaaS with multi-user auth, real-time click analytics, QR code generation, admin panel, and CSV export.View Live Projectlinks.arisewebx.comView 3 more projects0202E-CommerceFull-StackHilazhangerA full-stack e-commerce platform with clean UI, on-page SEO, admin panels, and scalable backend systems built for real-world usage.View Live Projectwww.hilazhanger.shop0303E-CommerceFrontendCurvy ObsessionA visually rich storefront focused on client requirements, responsive design, smooth UX, and seamless shopping enquiry flow.View Live Projectcurvyobsession.arisewebx.com0404SaaSAccountingAccrualA full-featured accounting SaaS with admin features, fund management, institute creation, and financial reporting at scale.Private Client Projectprivate — client projectExplore the full portfolioMore projects coming soonView All ProjectsStart Your ProjectRemote-first, timezone-flexibleBuilt remotely, delivered perfectlyWe work async-first, no unnecessary calls, no timezone friction. You get clear communication, fast turnarounds, and a product that speaks for itself.⚡Kickoff within 48 hours of first contact💬Direct communication, no account managers🔒Full source code ownership, no lock-in📦Delivered on time, production-readyLet's Start BuildingReady to get started?Tell us about your project and we'll get back to you within 2 hours with a detailed proposal.Tell Us About Your ProjectFull Name *Email Address *Company NameProject TypeSelect project typeLaunch TimelineWhen do you need it?Project Details *Send Message Email Usarisewebx@gmail.comSend u",
+      "length": 6597
+    }
+  },
+  "https://arisewebx.vercel.app": {
+    "scraped_at": "2026-04-03T11:54:03.628253",
+    "url": "https://arisewebx.vercel.app",
+    "status": 200,
+    "business_info": {
+      "site_title": "AriseWebX — Premium Web Design & Development",
+      "description": "AriseWebX builds premium websites and web apps for ambitious businesses. Fast delivery, full ownership, no lock-in. Kickoff in 48 hours.",
+      "name": "AriseWebX",
+      "price_range": "$$"
+    },
+    "social_media_links": {
+      "instagram": "https://instagram.com/arisewebx",
+      "linkedin": "https://linkedin.com/company/arisewebx",
+      "twitter": "https://twitter.com/arisewebx"
+    },
+    "contact_info": {},
+    "services": [],
+    "pages": {},
+    "portfolio": [],
+    "json_ld_data": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "AriseWebX",
+        "url": "https://www.arisewebx.com",
+        "logo": "https://www.arisewebx.com/logolight.png",
+        "description": "AriseWebX is a premium web design and development agency. We build custom websites, e-commerce stores, and web apps for ambitious businesses.",
+        "email": "arisewebx@gmail.com",
+        "serviceType": [
+          "Web Design",
+          "Web Development",
+          "E-Commerce Development",
+          "Custom App Development"
+        ],
+        "areaServed": "Worldwide",
+        "priceRange": "$$"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "AriseWebX",
+        "url": "https://www.arisewebx.com"
+      }
+    ],
+    "all_links": [
+      "https://links.arisewebx.com",
+      "https://www.hilazhanger.shop",
+      "https://arisewebx.vercel.app/projects",
+      "https://arisewebx.vercel.app/",
+      "https://curvyobsession.arisewebx.com",
+      "https://instagram.com/arisewebx",
+      "https://twitter.com/arisewebx",
+      "https://arisewebx.vercel.app/services/web-development",
+      "https://arisewebx.vercel.app/services/ecommerce",
+      "https://arisewebx.vercel.app/our-process",
+      "mailto:arisewebx@gmail.com",
+      "https://arisewebx.vercel.app/services/custom-apps",
+      "https://arisewebx.vercel.app/features",
+      "https://arisewebx.vercel.app/contact",
+      "https://arisewebx.vercel.app/about-us",
+      "https://linkedin.com/company/arisewebx"
+    ],
+    "images": [
+      {
+        "url": "https://arisewebx.vercel.app/_next/image?url=%2Fawxlightlogo.webp&w=384&q=75",
+        "alt": "AriseWebX"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/_next/image?url=%2Fawxdarklogo.webp&w=384&q=75",
+        "alt": "AriseWebX"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/nextdotjs.svg",
+        "alt": "Next.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/react.svg",
+        "alt": "React"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/typescript.svg",
+        "alt": "TypeScript"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/tailwindcss.svg",
+        "alt": "Tailwind CSS"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/nodedotjs.svg",
+        "alt": "Node.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/express.svg",
+        "alt": "Express.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/vercel.svg",
+        "alt": "Vercel"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/supabase.svg",
+        "alt": "Supabase"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/graphql.svg",
+        "alt": "GraphQL"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/figma.svg",
+        "alt": "Figma"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/python.svg",
+        "alt": "Python"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/nextdotjs.svg",
+        "alt": "Next.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/react.svg",
+        "alt": "React"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/typescript.svg",
+        "alt": "TypeScript"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/tailwindcss.svg",
+        "alt": "Tailwind CSS"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/nodedotjs.svg",
+        "alt": "Node.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/express.svg",
+        "alt": "Express.js"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/vercel.svg",
+        "alt": "Vercel"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/supabase.svg",
+        "alt": "Supabase"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/graphql.svg",
+        "alt": "GraphQL"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/figma.svg",
+        "alt": "Figma"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/python.svg",
+        "alt": "Python"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/postgresql.svg",
+        "alt": "PostgreSQL"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/mongodb.svg",
+        "alt": "MongoDB"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/redis.svg",
+        "alt": "Redis"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/docker.svg",
+        "alt": "Docker"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/aws-color.svg",
+        "alt": "AWS"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/stripe.svg",
+        "alt": "Stripe"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/razorpay.svg",
+        "alt": "Razorpay"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/prisma.svg",
+        "alt": "Prisma"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/n8n.svg",
+        "alt": "n8n"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/zapier.svg",
+        "alt": "Zapier"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/make.svg",
+        "alt": "Make"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/sanity.svg",
+        "alt": "Sanity CMS"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/cloudflare.svg",
+        "alt": "Cloudflare"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/githubactions.svg",
+        "alt": "GitHub Actions"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/flask.svg",
+        "alt": "Flask"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/django.svg",
+        "alt": "Django"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/fastapi.svg",
+        "alt": "FastAPI"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/postgresql.svg",
+        "alt": "PostgreSQL"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/mongodb.svg",
+        "alt": "MongoDB"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/redis.svg",
+        "alt": "Redis"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/docker.svg",
+        "alt": "Docker"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/aws-color.svg",
+        "alt": "AWS"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/stripe.svg",
+        "alt": "Stripe"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/razorpay.svg",
+        "alt": "Razorpay"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/prisma.svg",
+        "alt": "Prisma"
+      },
+      {
+        "url": "https://arisewebx.vercel.app/tech-icons/n8n.svg",
+        "alt": "n8n"
+      }
+    ],
+    "emails": [
+      "your@example.com",
+      "arisewebx@gmail.com"
+    ],
+    "phones": [
+      "55000937024",
+      "1941940012060",
+      "58758466387584",
+      "1100178163",
+      "21821800029109",
+      "1010011173335",
+      "55479897121",
+      "218542147109410939",
+      "22000195157",
+      "12881288001222",
+      "55000024937",
+      "220011112111",
+      "1621085050",
+      "161518751720241722",
+      "220012182197919790018633071951950016619791979001307867",
+      "1100178163",
+      "1453621686",
+      "1100039863987",
+      "2235223500142",
+      "1100112020",
+      "1081620505",
+      "55479897121",
+      "785187572024722",
+      "2727875611",
+      "440111263844001161137",
+      "953920193414993410",
+      "4993553910193739911799",
+      "22220012395",
+      "496496000635635",
+      "2200121721284128400072812200145211",
+      "2200083497",
+      "22001221692",
+      "7184721309291",
+      "2200121145128412840002817",
+      "145145000020145145000020",
+      "22000222200022",
+      "12612121614",
+      "55000623622"
+    ],
+    "addresses": [],
+    "hidden_data": {
+      "hidden_elements": [
+        {
+          "tag": "div",
+          "text": "",
+          "id": "",
+          "class": ""
+        }
+      ],
+      "data_attributes": [],
+      "comments": []
+    },
+    "javascript_data": {},
+    "meta_tags": {
+      "viewport": "width=device-width, initial-scale=1",
+      "description": "AriseWebX builds premium websites and web apps for ambitious businesses. Fast delivery, full ownership, no lock-in. Kickoff in 48 hours.",
+      "keywords": "web design agency,web development company,custom website design,ecommerce website development,custom app development,hire web developer,Next.js development agency,premium web design,startup web design,small business website,AriseWebX",
+      "google-site-verification": "VuGIKaQt_S-BYAa1d4dD2DkOuKiE8xezR9MJAw8XXEA",
+      "og:title": "AriseWebX — Premium Web Design & Development Agency",
+      "og:description": "We build premium websites, e-commerce stores, and custom web apps for ambitious businesses. Work directly with the developers — no middlemen, no bloat.",
+      "og:url": "https://www.arisewebx.com",
+      "og:site_name": "AriseWebX",
+      "og:locale": "en_US",
+      "og:image": "https://www.arisewebx.com/logolight.png",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "og:image:alt": "AriseWebX — Web Design & Development",
+      "og:type": "website",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "AriseWebX — Premium Web Design & Development Agency",
+      "twitter:description": "Premium websites, e-commerce stores, and custom web apps. Work directly with the builders.",
+      "twitter:image": "https://www.arisewebx.com/logolight.png"
+    },
+    "headings": {
+      "h1": [
+        "We Build WebsitesThatConvert."
+      ],
+      "h2": [
+        "Built different,on purpose",
+        "Services thatmove the needle",
+        "From first message togoing live",
+        "Our Work",
+        "Built remotely,delivered perfectly",
+        "Ready toget started?",
+        "Everything you need to know",
+        "Ready to build somethingexceptional?",
+        "ARISEWEBX"
+      ],
+      "h3": [
+        "AriseWebX",
+        "Pixel-perfect sites thatconvert visitors",
+        "We keep your site running perfectly",
+        "Stores thatactually sell",
+        "Full-stack appsbuilt to scale",
+        "Rank higher.Load faster.",
+        "Rebuild on a modern stack.Done properly.",
+        "AriseLinkX",
+        "Hilazhanger",
+        "Curvy Obsession",
+        "Accrual",
+        "Tell Us About Your Project",
+        "Services",
+        "Company",
+        "Get in Touch"
+      ]
+    },
+    "text_content": {
+      "full_text": "AriseWebX — Premium Web Design & DevelopmentHomeFeaturesProjectsContactBook a CallWhere Vision Becomes RealityWe Build WebsitesThat Convert.Premium web design & development for ambitious businesses. Fast, clean, and performance-obsessed from first brief to final launch.Start a ProjectSee our workWhy AriseWebXBuilt different, on purposeAt AriseWebX, you collaborate directly with the developers building your product, from the first message to launch. No hand-offs, no middlemen, no surprises.5+Projects shipped2–3 wksAvg. delivery time< 2 hrsResponse time2 includedRevision roundsAriseWebXGet a Free QuoteReply within 2 hours5+ shippedLive projects48h kickoffQuick project startRemote-FirstServing clients worldwideWhat you get✓Free consultation call✓Custom proposal within 2 hours✓No commitment required✓Full code ownership on deliveryModern stackBuilt with industry-leading technologySee our processNext.jsReactTypeScriptTailwind CSSNode.jsExpress.jsVercelSupabaseGraphQLFigmaPythonNext.jsReactTypeScriptTailwind CSSNode.jsExpress.jsVercelSupabaseGraphQLFigmaPythonPostgreSQLMongoDBRedisDockerAWSStripeRazorpayPrisman8nZapierMakeSanity CMSCloudflareGitHub ActionsFlaskDjangoFastAPIPostgreSQLMongoDBRedisDockerAWSStripeRazorpayPrisman8nZapierMakeSanity CMSCloudflareGitHub ActionsFlaskDjangoFastAPIWhat we buildServices that move the needleEnd-to-end digital products, from first brief to live at scale.Custom WebsitesPixel-perfect sites thatconvert visitorsBespoke design, mobile-first, blazing-fast.Perf Score98/100Load Time0.8sConversion+34%Live trackingClients23+Web DesignE-commerceWeb Appdashboard.appLive ●Mobile-firstBlazing fastCustom designSEO readyMaintenance & SupportWe keep your site running perfectlyUpdates, fixes, and improvements so you never have to worry about your site.Bug fixes & patchesIncludedContent updatesIncludedPerformance checksMonthlySecurity updatesOngoingE-commerceStores thatactually sellOptimised checkout flows that drive revenue.Gold Ring$249Pearl Set$399Cart0$0.00Stripe paymentsFast checkoutProduct catalogueOrder trackingWeb ApplicationsFull-stack appsbuilt to scaleComplex logic, auth, dashboards. We handle the whole stack.Auth & loginDashboardsAPI integrationsFull-stackPerformance & SEORank higher.Load faster.Speed and SEO baked in, not bolted on.Traffic / weekLiveMonTueWedThuFriCore Web VitalsSchema markupPage speedMeta tagsWebsite MigrationRebuild on a modern stack. Done properly.Got an old PHP, WordPress, or Wix site? We rebuild it from scratch using React or Next.js. Faster, cleaner, and built to last.PHP → Next.jsWordPress → ReactWix → CustomHTML → Next.jsFull rebuildClean codebaseNot sure what you need?We'll scope the right solution in a free 30-min call.See our workBook a free callHow We WorkFrom first message to going liveA clear, collaborative process that keeps you in control at every step.Project Delivery WorkflowStartClient InquiryNew project request receivedVia contact form or referralStepDiscovery CallUnderstand goals & requirements30–60 min video or callStepPlanning & StructureLayout, stack & scope definedPlanned before first line of codeStepDevelopmentBuild & integrate featuresNext.js · Tailwind · TypeScriptLiveGo LiveDeploy, test & hand overDomain · SEO · AnalyticsView all steps5 Steps4 ConnectionsTransparent · Collaborative · On-timeSelected WorkOur WorkReal products. Real results. Built with precision and shipped with pride.0101SaaSFull-StackAriseLinkXProduction SaaS with multi-user auth, real-time click analytics, QR code generation, admin panel, and CSV export.View Live Projectlinks.arisewebx.comView 3 more projects0202E-CommerceFull-StackHilazhangerA full-stack e-commerce platform with clean UI, on-page SEO, admin panels, and scalable backend systems built for real-world usage.View Live Projectwww.hilazhanger.shop0303E-CommerceFrontendCurvy ObsessionA visually rich storefront focused on client requirements, responsive design, smooth UX, and seamless shopping enquiry flow.View Live Projectcurvyobsession.arisewebx.com0404SaaSAccountingAccrualA full-featured accounting SaaS with admin features, fund management, institute creation, and financial reporting at scale.Private Client Projectprivate — client projectExplore the full portfolioMore projects coming soonView All ProjectsStart Your ProjectRemote-first, timezone-flexibleBuilt remotely, delivered perfectlyWe work async-first, no unnecessary calls, no timezone friction. You get clear communication, fast turnarounds, and a product that speaks for itself.⚡Kickoff within 48 hours of first contact💬Direct communication, no account managers🔒Full source code ownership, no lock-in📦Delivered on time, production-readyLet's Start BuildingReady to get started?Tell us about your project and we'll get back to you within 2 hours with a detailed proposal.Tell Us About Your ProjectFull Name *Email Address *Company NameProject TypeSelect project typeLaunch TimelineWhen do you need it?Project Details *Send Message Email Usarisewebx@gmail.comSend u",
+      "length": 6597
+    }
+  }
+}

@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+myenv/
+venv/
+.venv/
+
+# Knowledge base cache
+knowledge_base.pkl
+
+# Mac system files
+.DS_Store
+
+# VSCode
+.vscode/
